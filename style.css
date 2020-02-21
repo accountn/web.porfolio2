@@ -1,0 +1,85 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 60px;
+    color: orangered;
+}
+h2{
+    font-size: 30px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 70%;
+
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.top-item{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.new-item img{
+    float: left;
+    width: 25%;
+    margin-left: 6%;
+}
+
+.third-part{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.ok{
+    text-align: center;
+    color: black;
+}
+
+.last{
+    text-align: center;
+}
+.last-work{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+
+.frame{
+    margin: auto;
+    text-align: center;
+    background-color: crimson;
+    width: 600px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: wheat;
+
+}
+
+p{
+    text-align: center;
+    font-size: 15px;
+}
+
+
